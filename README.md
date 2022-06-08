@@ -7,7 +7,7 @@ The recipe leaves something to be desired but the result it's edible.
 
 ## Why?
 The code born as **educational purpose** only.
-Data extraction in csv for later use becouse i'm mad.
+Data extraction in csv for later use because i'm mad.
 
 <sup>_Don't judge me._</sup>
 
